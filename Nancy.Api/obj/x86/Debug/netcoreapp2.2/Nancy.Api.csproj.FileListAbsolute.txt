@@ -1,0 +1,17 @@
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\bin\x86\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\bin\x86\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\bin\x86\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\bin\x86\Debug\netcoreapp2.2\Nancy.Api.deps.json
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\bin\x86\Debug\netcoreapp2.2\Nancy.Api.runtimeconfig.json
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\bin\x86\Debug\netcoreapp2.2\Nancy.Api.runtimeconfig.dev.json
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\bin\x86\Debug\netcoreapp2.2\Nancy.Api.dll
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\bin\x86\Debug\netcoreapp2.2\Nancy.Api.pdb
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.csprojAssemblyReference.cache
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.csproj.CoreCompileInputs.cache
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.RazorAssemblyInfo.cache
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.RazorAssemblyInfo.cs
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.AssemblyInfoInputs.cache
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.AssemblyInfo.cs
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.RazorTargetAssemblyInfo.cache
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.dll
+E:\Medium\nancyfx\Test\Nancy.Api\Nancy.Api\obj\x86\Debug\netcoreapp2.2\Nancy.Api.pdb
